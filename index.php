@@ -52,6 +52,7 @@
             // .catch(error => {
             //     console.error('Error:', error);
             // });
+            // This is a comment
         }
     </script>
 </body>
